@@ -1,0 +1,61 @@
+body {
+	background-color:#F2C6B6;
+}
+h1
+{
+    color:#5b66a6;
+    text-align:center;
+    font-family: : Impact, Charcoal, sans-serif;
+    
+}
+p
+{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size:20px;
+
+}
+.div1{
+	width: 600px;
+    height: 300px;
+    position:relative;
+    left: 300px;
+    background: #f1c6b6;
+    text-align: center;
+    box-sizing: border-box; 
+
+}
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    overflow: hidden;
+    background-color: #F2C6B6;
+    font: Impact, Charcoal, sans-serif;
+}
+ 
+li {
+    float: left;
+}
+ 
+li a {
+    display: block;
+    color: #f25c05;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a #home{
+	color: #1e1b8c;
+}
+ 
+/*鼠标移动到选项上修改背景颜色 */
+li a:hover {
+    background-color: #bebdbf;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 10%;
+ 
+}
