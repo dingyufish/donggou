@@ -1,0 +1,66 @@
+body {
+	background-color:#F2C6B6;
+    
+}
+
+header
+{
+    color:#5b66a6;
+    font-size: 40px;
+    text-align:center;
+    padding: 10px;
+    margin:20px 0;
+
+
+}
+nav a{
+    font: myfirstfont;
+    background: #F2C6B6;
+    padding: 3px 9px;
+    color: #f25c05;
+}
+nav {
+  text-align: center;
+  margin: 20px 0;
+  padding: 10px;
+}
+
+nav a:hover {
+    background-color: #bebdbf;
+}
+
+p
+{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size:20px;
+    margin: 0 auto;
+    width: 400px;
+    background: #cddef2;
+    padding: 20px;
+    color: white;
+
+}
+
+
+img .pic{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+
+.div1{
+	width: 800px;
+    height: 300px;
+    position:relative;
+    left: 300px;
+    background: #cddef2;
+    text-align: center;
+    box-sizing: border-box; 
+
+}
+
+ 
+/*鼠标移动到选项上修改背景颜色 */
+
